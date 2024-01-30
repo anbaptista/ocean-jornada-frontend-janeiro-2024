@@ -1,3 +1,12 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 32px;
+  width; 100%
+  padding: 16px;
+}
+
 .card {
   border: 1px solid white;
   border-radius: 10px;
