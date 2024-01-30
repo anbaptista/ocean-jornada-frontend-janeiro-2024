@@ -6,7 +6,7 @@ function Card() {
 
           <div className="tag">Status: Vivo</div>
           <div className="tag">Espécie: Humana</div>
-          <div className="tag">Origem: Terra C</div>
+          <div className="tag">Origem: Terra C-137</div>
 
           <img src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" />
         </div>

@@ -14,15 +14,18 @@
 .card > img {
   border-radius: 10px
 }
-.tag {
+
+.tags {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
   margin-bottom: 24px;
   max-width: 300px;
   justify-content: center;
-  }
-    background: black;
+}
+
+.tag {
+  background: black;
   color: white;
   font-size: 12px;
   font-weight: bold;
