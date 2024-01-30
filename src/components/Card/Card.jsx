@@ -1,10 +1,9 @@
 function Card(props) {
-
   //console.log(props)
 
   const item = props.item
-  
-  console.log(item)
+
+  //console.log(item)
 
   return (
     <>
@@ -24,4 +23,3 @@ function Card(props) {
 }
 
 export default Card
-  
