@@ -1,8 +1,8 @@
 .card {
-  border: 1px solid white;
+  border: 1px solid black
   border-radius: 10px;
   padding: 16px;
-  box-shadow: 4px 4px white;
+  box-shadow: 4px 4px black;
   text-align: center;
 }
 
@@ -13,4 +13,19 @@
 
 .card > img {
   border-radius: 10px
+}
+.tag {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
+  max-width: 300px;
+  justify-content: center;
+  }
+    background: black;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 4px 12px;
 }
